@@ -1,3 +1,4 @@
-def call () {
-echo "Hello Jenkins"
+// vars/call.groovy
+def call() {
+    echo "Hello from Shared Library"
 }
